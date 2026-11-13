@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ccsn-gw.github.io/sitemap.xml

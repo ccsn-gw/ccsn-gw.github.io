@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>.i{fill:#2747C9}.r{stroke:#D9632A}@media (prefers-color-scheme:dark){.i{fill:#8EA2FF}.r{stroke:#F08A4B}}</style>
+  <ellipse class="r" cx="16" cy="16" rx="13" ry="10" fill="none" stroke-width="2.4" stroke-dasharray="4.5 3"/>
+  <ellipse class="i" cx="16" cy="16" rx="6.2" ry="4.7"/>
+</svg>
